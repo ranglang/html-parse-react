@@ -2,7 +2,7 @@
   "name": "react-html-parser",
   "version": "2.0.2",
   "description": "Parse HTML into React components",
-  "main": "lib/index.js",
+  "module": "src/index.js",
   "jsnext:main": "src/index.js",
   "scripts": {
     "clean": "rimraf coverage dist lib",
